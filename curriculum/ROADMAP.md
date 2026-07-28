@@ -1,6 +1,6 @@
 # The Data Journey
 
-> A structured, project-based curriculum for Data Analysis, Data Science, and AI, built from my learning journey and continuously refined over time.
+> A structured, project-based curriculum for Data Analysis, Data Science, and Artificial Intelligence, built from my learning journey and continuously refined over time.
 
 ---
 
@@ -21,8 +21,9 @@ By completing this curriculum, I aim to:
 - Build a strong Computer Science foundation.
 - Master Python for Data Science.
 - Develop professional Data Analysis skills.
-- Understand the mathematical foundations of AI.
+- Build a solid foundation in Mathematics and Statistics.
 - Learn practical Machine Learning.
+- Explore modern Artificial Intelligence.
 - Complete multiple portfolio projects.
 - Build a competitive GitHub portfolio.
 - Prepare for Master's programs in Data Science.
@@ -31,23 +32,51 @@ By completing this curriculum, I aim to:
 
 # Curriculum Structure
 
-Semester 0 — Learning Foundations
+## Stage 0 — Learning Foundations
 
-Semester 1 — Python Programming
+Build effective study habits, set up the development environment, and become familiar with the essential tools used throughout the curriculum.
 
-Semester 2 — Computer Science I
+---
 
-Semester 3 — Computer Science II
+## Stage 1 — Python Programming
 
-Semester 4 — Data Analysis
+Learn Python from the ground up and develop strong programming fundamentals through hands-on practice and projects.
 
-Semester 5 — Mathematics & Statistics
+---
 
-Semester 6 — Machine Learning
+## Stage 2 — Computer Science & Developer Tools
 
-Semester 7 — Artificial Intelligence
+Strengthen computational thinking, problem-solving skills, and developer workflows while learning core Computer Science concepts.
 
-Semester 8 — Professional Development & Capstone
+---
+
+## Stage 3 — Mathematics & Statistics
+
+Build the mathematical foundation required for Data Science, Machine Learning, and AI.
+
+---
+
+## Stage 4 — Data Analysis
+
+Learn how to collect, clean, analyze, visualize, and communicate data using modern analytical tools.
+
+---
+
+## Stage 5 — Machine Learning
+
+Study supervised and unsupervised learning, model evaluation, feature engineering, and practical machine learning workflows.
+
+---
+
+## Stage 6 — Artificial Intelligence
+
+Explore modern AI concepts, large language models, deep learning fundamentals, and real-world AI applications.
+
+---
+
+## Stage 7 — Professional Development
+
+Build a professional portfolio, complete capstone projects, strengthen technical communication skills, and prepare for graduate studies and career opportunities.
 
 ---
 
@@ -57,7 +86,7 @@ This curriculum follows a simple principle:
 
 **Learn → Practice → Build → Reflect**
 
-Every topic should lead to practical implementation through exercises and projects.
+Every topic should lead to practical implementation through exercises and real-world projects.
 
 ---
 
@@ -73,4 +102,4 @@ Every topic should lead to practical implementation through exercises and projec
 
 # Status
 
-Current Version: v0.1 (Work in Progress)
+**Current Version:** v0.1 *(Work in Progress)*
