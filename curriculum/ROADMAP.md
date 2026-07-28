@@ -79,7 +79,22 @@ Explore modern AI concepts, large language models, deep learning fundamentals, a
 Build a professional portfolio, complete capstone projects, strengthen technical communication skills, and prepare for graduate studies and career opportunities.
 
 ---
+# Estimated Learning Time
 
+| Stage | Estimated Hours |
+|--------|----------------:|
+| Stage 0 — Learning Foundations | 20 |
+| Stage 1 — Python Programming | 120 |
+| Stage 2 — Computer Science & Developer Tools | 160 |
+| Stage 3 — Mathematics & Statistics | 180 |
+| Stage 4 — Data Analysis | 140 |
+| Stage 5 — Machine Learning | 180 |
+| Stage 6 — Artificial Intelligence | 120 |
+| Stage 7 — Professional Development | 80 |
+
+**Total Estimated Learning Time:** **1,000 hours**
+
+---
 # Learning Philosophy
 
 This curriculum follows a simple principle:
