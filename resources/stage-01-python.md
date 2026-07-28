@@ -1,71 +1,91 @@
-# Stage 1 — Python Programming
+# Stage 1 — Python Programming Resources
 
-## 🎯 Primary Learning
+This document contains all external learning resources for Stage 1.
+
+---
+
+# Python Fundamentals
+
+## Learn
 
 ### CS50's Introduction to Programming with Python
 
-Website:
-https://cs50.harvard.edu/python/
-
-Role:
-Primary course.
+- [CS50P](https://cs50.harvard.edu/python/)
 
 ---
 
-### Python Crash Course
+### Python Crash Course (3rd Edition)
 
-Website:
-https://ehmatthes.github.io/pcc_3e/
+**Type:** Book
 
-Role:
-Primary textbook.
+- [Python Crash Course](https://ehmatthes.github.io/pcc_3e/)
 
 ---
 
-## 💻 Practice
+### Official Python Tutorial
 
-### Exercism
-
-https://exercism.org/tracks/python
-
-Excellent guided exercises.
+- [Python Tutorial](https://docs.python.org/3/tutorial/)
 
 ---
 
-### HackerRank
+## Practice
 
-https://www.hackerrank.com/domains/python
+- [Exercism Python Track](https://exercism.org/tracks/python)
 
-Practice programming problems.
-
----
-
-### LeetCode (Easy)
-
-https://leetcode.com/
-
-Recommended after completing the basics.
+- [HackerRank Python](https://www.hackerrank.com/domains/tutorials/10-days-of-python)
 
 ---
 
-## 📚 Official Documentation
+## Documentation
 
-Python Documentation
-
-https://docs.python.org/3/
+- [Python Documentation](https://docs.python.org/3/)
 
 ---
 
-PEP 8
+# Programming Practice
 
-https://peps.python.org/pep-0008/
+## Practice
+
+- [Exercism](https://exercism.org/tracks/python)
+
+- [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-python)
+
+- [Practice Python](https://www.practicepython.org/)
 
 ---
 
-## 🎥 Additional Learning
+# Python Reference
 
-Real Python
+## Learn
 
-https://realpython.com/
+- [Real Python](https://realpython.com/)
 
-High-quality tutorials.
+---
+
+## Documentation
+
+- [Python Standard Library](https://docs.python.org/3/library/)
+
+---
+
+# Developer Tools
+
+## Git
+
+- [GitHub Skills](https://skills.github.com/)
+
+- [Pro Git](https://git-scm.com/book/en/v2)
+
+---
+
+## Terminal & Shell
+
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
+---
+
+# Optional Reading
+
+## Book
+
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
